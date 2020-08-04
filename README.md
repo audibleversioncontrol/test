@@ -1,2 +1,3 @@
 # test
-Test integration of GitHub and IntelliJ editor
+*Test integration of GitHub and IntelliJ editor!!!~!!!!!!*
+More lines of text
